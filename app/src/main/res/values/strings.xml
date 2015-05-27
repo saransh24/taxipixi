@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">assignmentTaxipixi</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="source">
+        <item>PICKUP</item>
+       <item>Delhi</item>
+       <item>Mumbai</item>
+       <item>Goa</item>
+       <item>Chennai</item>
+       <item>Banglore</item>
+       <item>Tamil Nadu</item>
+    </string-array>
+    <string-array name="destination">
+        <item>DEST</item>
+        <item>Delhi</item>
+        <item>Mumbai</item>
+        <item>Goa</item>
+        <item>Chennai</item>
+        <item>Banglore</item>
+        <item>Tamil Nadu</item>
+    </string-array>
+</resources>
+
